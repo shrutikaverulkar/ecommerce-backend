@@ -1,5 +1,5 @@
 {
-  "users": [
+  "product": [
     {
       "productname": "ankita",
       "productprice": "1250",
@@ -7,6 +7,14 @@
       "isAvailable": "no",
       "stock": "8",
       "id": 1
+    },
+    {
+      "productname": "aaaa",
+      "productprice": "222",
+      "image": "ss",
+      "isAvailable": "yes",
+      "stock": "34",
+      "id": 2
     }
   ]
 }
