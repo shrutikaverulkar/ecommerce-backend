@@ -1,14 +1,12 @@
 {
   "users": [
     {
-      "name": "qqqqq",
-      "email": "aaaa@gmail.com",
-      "gender": "female",
-      "mobile": "9999999999",
-      "date": "2023-10-05",
-      "time": "12:00",
-      "age": "12",
-      "id": 3
+      "productname": "ankita",
+      "productprice": "1250",
+      "image": "https://media.istockphoto.com/id/90059062/photo/technology-series.webp?b=1&s=170667a&w=0&k=20&c=cmUa7TIA1bmwUb25gOUUEvfMl1NU3V59q5T--7iC8tk=",
+      "isAvailable": "no",
+      "stock": "8",
+      "id": 1
     }
   ]
 }
